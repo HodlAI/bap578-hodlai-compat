@@ -140,6 +140,7 @@ event ActionExecuted(
 
 | Contract | Address | Status |
 |----------|---------|--------|
+| **HodlAILogic** | `0x6068279Cc74Fb170794012ED73363De6De818294` | ✅ Live (v1) |
 | **HodlAI Token** | `0x987e6269c6b7ea6898221882f11ea16f87b97777` | ✅ Live |
 | **HodlAILogic** | `[Pending Deployment]` | ⏳ Awaiting deploy |
 | **BAP-578 NFA** | `0xf2954d349D7FF9E0d4322d750c7c2921b0445fdf` | ✅ Live |
